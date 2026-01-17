@@ -17,14 +17,15 @@ This repository contains various C programming files documenting my progression:
 ## 🚀 Quick Compilation
 
 To compile and run any C file:
-- bash
+```bash
 - gcc filename.c -o output
 - ./output
+```
 
-📝 About
+## 📝 About
 - This repository serves as a personal archive of my C programming journey, documenting progress from beginner concepts to more advanced topics. Each file represents a learning milestone or practice exercise.
 
-🔗 Repository
+## 🔗 Repository
 github.com/glnplmrqz/c-language
 
 This design focuses on:
@@ -34,5 +35,5 @@ This design focuses on:
 - Simple compilation instructions
 - Personal context about the learning journey
 
-🎯 Purpose
+## 🎯 Purpose
 - This repository tracks my learning path in C programming, serving as both a reference and progress log. Files are organized to show growth from beginner to intermediate concepts.
